@@ -1,0 +1,10 @@
+year,era,max_speed_kmh,fastest_tokyo_osaka_min,note,source_key
+1958.83,conventional,110,410,Kodama limited express enters service on the Tokaido Main Line,kodama1958
+1960.5,conventional,110,390,June 1960 timetable revision,kodama1960
+1964.75,shinkansen,200,240,"Tokaido Shinkansen opens 1 Oct 1964; speed held down while the roadbed settles",opening
+1965.83,shinkansen,210,190,November 1965: design speed and design timetable both reached,hikari1965
+1986.83,shinkansen,220,180,November 1986 revision,speed1986
+1992.2,shinkansen,270,150,"March 1992: Series 300 and the first Nozomi",nozomi1992
+2003.75,shinkansen,270,150,"October 2003: Shinagawa opens, all trains raised to 270 km/h",shinagawa2003
+2015.2,shinkansen,285,142,March 2015: first speed rise in 23 years,speed2015
+2020.2,shinkansen,285,141,"March 2020: 12-Nozomi timetable; Kodama also raised to 285 km/h",timetable2020
